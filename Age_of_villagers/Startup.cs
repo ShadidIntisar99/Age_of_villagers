@@ -17,7 +17,6 @@ namespace Age_of_villagers
         {
         }
 
-        
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())

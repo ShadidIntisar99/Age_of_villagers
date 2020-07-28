@@ -21,6 +21,7 @@ namespace Age_of_villagers
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+
                 });
     }
 }
